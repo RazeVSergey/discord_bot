@@ -1,6 +1,6 @@
-#Project preparation
+# Project preparation
 
-##Installation
+## Installation
 
 Downloading the repository
 
@@ -8,19 +8,19 @@ git clone git@github.com:RazeVSergey/discord_bot.git
 
 npm install
 
-##Launch
+## Launch
 
 node app.js
 
-##Install in docker
+## Install in docker
 
 docker compose build app
 
-##Launch
+## Launch
 
 docker-cmpose up -d
 
 
-[Conventional Assembly Documentation](https://github.com/RazeVSergey/discord_bot//docs/update.md)
+[Conventional Assembly Documentation](https://github.com/RazeVSergey/discord_bot/blob/main/docs/update.md)
 
 [Build Documentation for Branch Array](https://github.com/RazeVSergey/discord_bot/blob/main/docs/update_array.md)

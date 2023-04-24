@@ -21,6 +21,6 @@ docker compose build app
 docker-cmpose up -d
 
 
-[Conventional Assembly Documentation](#./docs/update.md)
+[Conventional Assembly Documentation](#https://github.com/RazeVSergey/discord_bot/blob/main/docs/update.md)
 
-[Build Documentation for Branch Array](#./docs/update_array.md)
+[Build Documentation for Branch Array](#https://github.com/RazeVSergey/discord_bot/blob/main/docs/update_array.md)

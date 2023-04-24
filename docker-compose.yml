@@ -1,0 +1,16 @@
+version: '3.7'
+
+services:
+
+  updater:
+    container_name: bot_updater
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: always
+    networks:
+      - my-network
+
+networks:
+  my-network:
+    driver: bridge
